@@ -2,7 +2,7 @@
     "name": "Minecraft build galery",
     "short_name": "MC Galery",
     "lang": "en-US",
-    "start_url": "/pages/index.html",
+    "start_url": "./index.html",
     "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#db4938",

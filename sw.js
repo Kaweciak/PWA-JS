@@ -1,7 +1,7 @@
 const cacheName = 'piac-pwa-v1';
 const filesToCache = [
     '/',
-    '/pages/index.html',
+    '/index.html',
     '/styles/style.css',
     '/js/main.js'
 ];

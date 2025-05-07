@@ -3,7 +3,11 @@ const filesToCache = [
     '/',
     '/index.html',
     '/styles/style.css',
-    '/js/main.js'
+    '/js/main.js',
+    '/pages/index.html',
+    '/pages/navbar.html',
+    '/pages/space.html',
+    '/pages/base.html'
 ];
 
 self.addEventListener('install', (event) => {

@@ -1,5 +1,5 @@
 <Project Sdk="Microsoft.VisualStudio.JavaScript.Sdk/1.0.2191419">
   <ItemGroup>
-    <Folder Include="images\space\" />
+    <Folder Include="images\base\" />
   </ItemGroup>
 </Project>
